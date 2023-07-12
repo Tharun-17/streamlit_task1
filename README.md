@@ -1,1 +1,1 @@
-# streamlit_task1
+# cereals_data_app
